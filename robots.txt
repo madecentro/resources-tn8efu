@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://madecentro.github.io/resources-tn8efu/sitemap.xml
